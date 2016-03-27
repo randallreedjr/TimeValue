@@ -1,4 +1,8 @@
-Time Value of Money calculator
+# DEPRECATED
+
+This gem is deprecated;  please use the updated (and more correctly name) [time_value gem](https://github.com/randallreedjr/time-value) instead.
+
+## Time Value of Money calculator
 
 Performs financial calculatins for:
 -n (number of periods)
